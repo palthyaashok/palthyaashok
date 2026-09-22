@@ -1,12 +1,12 @@
- # 👋 I'm **Lavudya Swamy**  
+ # 👋 I'm **Palthya Ashok**  
 
  🎯 **Data Scientist | AI Engineer | Data Analyst | Data Engineer**
 
 ---
 ### 🧩 About Me
-I'm a passionate **Data Scientist and AI Engineer** currently pursuing my **Master’s in Data Science at IIIT Lucknow**.  
+I'm a passionate **Data Scientist and AI Engineer** completed My Graduation **Batchlors Of Science**.  
 I specialize in building **end-to-end Machine Learning, Deep Learning, and Generative AI solutions** — from model design to deployment on **AWS Cloud** using **Docker** and **FastAPI**.  
-With a strong background in **Mathematics, Statistics, and Programming**, I focus on creating intelligent systems that solve real-world problems.
+With a strong background in **Mathematics, ComputerScience, and Programming**, I focus on creating intelligent systems that solve real-world problems.
 
 ## 🧰 Technical Skills
 
@@ -78,30 +78,14 @@ With a strong background in **Mathematics, Statistics, and Programming**, I focu
 
 ---
 
-## ⭐ Top Contributed Repositories
-[![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=Swamy12S&limit=5&theme=algolia&combine_all_yearly_contributions=true)](https://github.com/Swamy12S)
-
 ## 📁 Key Projects
 
 | Project | Tech Stack | Description |
 |--------|-----------|-------------|
 | [🧩 RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Swamy12S/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git) | LangChain · LoRA · OpenAI · React · RAG | Developed a **Retrieval-Augmented Chatbot** fine-tuned with LoRA adapters for contextual, multi-turn conversations across customer support data. |
-| [⚙️ Finetuning_LLM_LORA_QLORA](https://github.com/Swamy12S/Finetuning_LLM_LORA_QLORA.git) | Python · PyTorch · QLoRA · PEFT · Transformers | Implemented **LoRA and QLoRA-based fine-tuning** to efficiently adapt large LLMs using quantized weights for GPU optimization and improved accuracy. |
-| [🏥 Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS](https://github.com/Swamy12S/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git) | LangChain · Pinecone · Flask · AWS · LLMs | Built an **AI-powered medical chatbot** capable of real-time medical Q&A and health guidance using vector retrieval and LLM integration. |
-| [📈 LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/Swamy12S/LSTM-Neural-Network-for-Time-Series-Prediction.git) | LSTM · TensorFlow · Keras · Time Series | Developed a **time series forecasting system** using LSTM with generator-based training for memory efficiency, evaluated on sine wave and S&P 500 stock data. |
-| [🎬 Movie-Recommendation-System-Using-Machine-Learning-Django](https://github.com/Swamy12S/Movie-Recommendation-System-Using-Machine-Learning-Django.git) | Django · TF-IDF · SVD · scikit-learn | Built a **production-ready movie recommendation system** using content-based filtering with TF-IDF and dimensionality reduction, exposed via REST APIs. |
-| [🎥 Video-LLaMA-An-Instruction-tuned-Audio-Visual-Language-Model-for-Video-Understanding](https://github.com/Swamy12S/Video-LLaMA-An-Instruction-tuned-Audio-Visual-Language-Model-for-Video-Understanding.git) | PyTorch · Transformers · LoRA · QLoRA | Worked on an **instruction-tuned multimodal LLM** for video understanding by integrating visual, audio, and language representations. |
 | [📝 PyTorch-Sentiment-Analysis](https://github.com/Swamy12S/PyTorch-Sentiment-Analysis.git) | PyTorch · BERT · NLP | Implemented and compared NLP models from **Neural BoW to Transformer-based BERT**, achieving ~92% accuracy on IMDB sentiment classification. |
-| [🕵️ AI-powered-deepfake_detection](https://github.com/Swamy12S/AI-powered-deepfake_detection.git) | CNN · EfficientNet · Audio-Visual Fusion | Designed a **multi-modal deepfake detection system** combining video and audio cues with a Flask-based web interface. |
-| [🌾 AgriBot-main](https://github.com/Swamy12S/AgriBot-main.git) | LangChain · FAISS · HuggingFace · Flask | Built an **AI-powered agriculture assistant** using a multilingual RAG pipeline to answer farmer queries from PDF-based knowledge sources. |
 
 
-
----
-
-### 📊 My GitHub Stats
-![Swamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swamy12S&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swamy12S&layout=compact&theme=tokyonight)
 
 
 ### 🌱 Currently
@@ -109,19 +93,14 @@ With a strong background in **Mathematics, Statistics, and Programming**, I focu
 - 🌿 I’m currently learning **Data Engineering and Cloud Deployments**
 - 🤝 I’m looking to collaborate on **Deep Learning & RAG-based projects**
 - 💬 Ask me about **Machine Learning, Data Science, FastAPI, and AWS**
-- 📫 Reach me at **lavudyaswamy4@gmail.com**
+- 📫 Reach me at **palthyaashok63@gmail.com**
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning data into stories 📊
 
 ### 🏆 Achievements
-- 🥇 **All India Rank 1265 in IIT JAM 2024 (Mathematical Statistics)**  
-- 🎓 **Teaching Assistant for Statistics — helped 90+ students**  
+- 🎓 **Teaching Assistant for Mathematics — helped 90+ students**  
 - 🤖 **AI Tutor at Outlier** — trained LLM models for factual reasoning  
 
-
-## 🏆 GitHub Trophies / Stats
-<!-- If trophy service is up, use this line -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Swamy12S&theme=algolia&no-frame=true&margin-w=10)
 
 
 ### 📬 Connect with Me 
