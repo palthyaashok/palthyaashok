@@ -82,6 +82,7 @@ With a strong background in **Mathematics, ComputerScience, and Programming**, I
 
 | Project | Tech Stack | Description |
 |--------|-----------|-------------|
+| [🧩 Multi-Modal RAG System](https://github.com/palthyaashok/multi-model-rag-system) | Python · LangChain · RAG · FAISS · OCR · Transformers · Multimodal AI | Developed a **Multi-Modal Retrieval-Augmented Generation system** for intelligent document question answering, integrating text and visual content with semantic retrieval, OCR, and citation-aware responses. |
 | [🧩 RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning](https://github.com/Swamy12S/RAG-Enhanced-Chatbot-with-LoRA-Fine-Tuning.git) | LangChain · LoRA · OpenAI · React · RAG | Developed a **Retrieval-Augmented Chatbot** fine-tuned with LoRA adapters for contextual, multi-turn conversations across customer support data. |
 | [📝 PyTorch-Sentiment-Analysis](https://github.com/Swamy12S/PyTorch-Sentiment-Analysis.git) | PyTorch · BERT · NLP | Implemented and compared NLP models from **Neural BoW to Transformer-based BERT**, achieving ~92% accuracy on IMDB sentiment classification. |
 
@@ -105,9 +106,9 @@ With a strong background in **Mathematics, ComputerScience, and Programming**, I
 
 ### 📬 Connect with Me 
 <p align="left">
-<a href="https://www.linkedin.com/in/lavudya-swamy-a6bb6834a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Swamy12S" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
-<a href="mailto:msd24007@iiitl.ac.in"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/palthya-ashok-436764438?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/palthyaashok" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+<a href="mailto:palthyaashok63@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ### 🧠 “I believe in building intelligent systems that make data speak — accurately, securely, and efficiently.”
