@@ -106,7 +106,7 @@ With a strong background in **Mathematics, ComputerScience, and Programming**, I
 
 ### 📬 Connect with Me 
 <p align="left">
-<a href="https://www.linkedin.com/in/palthya-ashok-436764438?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/palthya-ashok-436764438" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/palthyaashok" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
 <a href="mailto:palthyaashok63@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
